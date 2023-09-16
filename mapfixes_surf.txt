@@ -12,6 +12,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 12653616137 - surf_Mini (fixes skip) (creator doesn't know if skip was found by anyone other than himself, if there are times with skip, wipe those times.)
+406616673 - Space - Fixed movement issues on the spawn platform and smoothed out some ramps
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
